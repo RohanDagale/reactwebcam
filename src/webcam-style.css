@@ -1,0 +1,48 @@
+.live-cam {
+     padding: 4rem 0rem;
+
+    width: 20rem;
+    height: 40rem;
+    object-fit: contain;
+}
+
+.frame {
+    border-radius: 1rem;
+    background-color: #fffc00;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.demo {
+    padding: 8.5rem 0rem;
+    background-color: #282828;
+    border-radius: 1rem;
+    /* margin-top: 3.8rem; */
+}
+
+.left-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2rem 0rem;
+   
+  
+
+}
+
+.pad {
+    padding-top: 2rem;
+}
